@@ -1008,7 +1008,7 @@ void ofApp::setupGui()
 	int guiWidth = 220;
 	int guiPosInc = guiWidth + 1;
 	
-	guiPanels.resize(6);
+	//guiPanels.resize(6);
 
 	// Device Menu
 	int p = 0;
